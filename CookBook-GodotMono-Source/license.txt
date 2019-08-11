@@ -1,0 +1,11 @@
+
+CookBook
+
+Author: Laszlo Koosz
+Year: 2019
+License: shared under MIT license, free to use for any purposes.
+Website:
+https://gametemplates.itch.io/
+https://github.com/GameTemplates
+
+Have fun!
