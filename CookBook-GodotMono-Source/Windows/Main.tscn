@@ -20,7 +20,6 @@ margin_right = 4.0
 drag_to_rearrange_enabled = true
 
 [node name="Options" type="Tabs" parent="TabContainer"]
-editor/display_folded = true
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_left = 4.0
@@ -126,11 +125,10 @@ window_title = "Open a Directory"
 resizable = true
 mode = 2
 access = 2
-current_dir = "/home/szoszo/Documents/Projects/GodotMono/CookBook"
-current_path = "/home/szoszo/Documents/Projects/GodotMono/CookBook/"
+current_dir = "C:/Users/szoszo/Desktop/Projects/gametemplates/GodotMono/CookBook/CookBook-GodotMono-Source"
+current_path = "C:/Users/szoszo/Desktop/Projects/gametemplates/GodotMono/CookBook/CookBook-GodotMono-Source/"
 
 [node name="New Receipt" type="Tabs" parent="TabContainer"]
-editor/display_folded = true
 visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
@@ -168,7 +166,6 @@ margin_bottom = 92.329
 text = "Description"
 
 [node name="Ingredients" type="ItemList" parent="TabContainer/New Receipt"]
-editor/display_folded = true
 anchor_top = 1.0
 anchor_bottom = 1.0
 margin_top = -217.0
@@ -244,7 +241,6 @@ margin_bottom = -6.96716
 text = "Save"
 
 [node name="Browse" type="Tabs" parent="TabContainer"]
-editor/display_folded = true
 visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
@@ -283,7 +279,6 @@ margin_right = -1.0
 margin_bottom = -196.0
 
 [node name="ReceiptIngredients" type="ItemList" parent="TabContainer/Browse"]
-editor/display_folded = true
 anchor_top = 1.0
 anchor_bottom = 1.0
 margin_left = 306.0
@@ -383,11 +378,10 @@ resizable = true
 mode = 2
 access = 2
 filters = PoolStringArray( "*.txt" )
-current_dir = "/home/szoszo/Documents/Projects/GodotMono/CookBook"
-current_path = "/home/szoszo/Documents/Projects/GodotMono/CookBook/"
+current_dir = "C:/Users/szoszo/Desktop/Projects/gametemplates/GodotMono/CookBook/CookBook-GodotMono-Source"
+current_path = "C:/Users/szoszo/Desktop/Projects/gametemplates/GodotMono/CookBook/CookBook-GodotMono-Source/"
 
 [node name="IngredientSearchList" type="ItemList" parent="TabContainer/Browse"]
-editor/display_folded = true
 margin_left = 16.0
 margin_top = 378.0
 margin_right = 295.0
@@ -459,7 +453,6 @@ margin_bottom = -172.0
 text = "Ingredients"
 
 [node name="ConfirmationWindowDialog" type="WindowDialog" parent="."]
-editor/display_folded = true
 margin_left = 315.157
 margin_top = 192.93
 margin_right = 699.157
@@ -480,7 +473,6 @@ margin_top = 5.40361
 margin_right = 147.783
 margin_bottom = 19.4036
 text = "gametemplates.itch.io"
-
 [connection signal="tab_selected" from="TabContainer" to="TabContainer/New Receipt" method="_on_TabContainer_tab_selected"]
 [connection signal="tab_selected" from="TabContainer" to="TabContainer/Browse" method="_on_TabContainer_tab_selected"]
 [connection signal="button_up" from="TabContainer/Options/IngredientsAddButton" to="TabContainer/Options" method="_on_AddButton_button_up"]

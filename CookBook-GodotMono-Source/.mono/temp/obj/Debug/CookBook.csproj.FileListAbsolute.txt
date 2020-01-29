@@ -1,8 +1,0 @@
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/bin/Debug/CookBook.dll
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/bin/Debug/CookBook.pdb
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/bin/Debug/Newtonsoft.Json.dll
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/bin/Debug/Newtonsoft.Json.xml
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/obj/Debug/CookBook.csproj.CoreCompileInputs.cache
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/obj/Debug/CookBook.csproj.CopyComplete
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/obj/Debug/CookBook.dll
-/home/szoszo/Documents/Projects/GodotMono/CookBook/.mono/temp/obj/Debug/CookBook.pdb
